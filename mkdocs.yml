@@ -1,0 +1,12 @@
+site_name: Sistemes
+theme:
+  name: 'readthedocs'
+nav:
+- Sprint1:
+  - Introducció: 'introduccio.md'
+  - Llicenciament: 'llicenciament.md'
+  - Instal·lació Ubuntu: 'instalacio.md'
+  - Xarxa a Ubuntu: 'xarxa.md'
+- Sprint2:
+  - Sprint2: 'sprint2.md'
+
